@@ -1,0 +1,2 @@
+# Web Scraping with Python - Requests - BeautifulSoup - Selenium - Pandas
+Hello, I'm [Joseph Konka](https://www.linkedin.com/in/joseph-koami-konka/), Python enthousiast. In this porject, I'm doing web scraping tasks. I hope it will help you to understand the subject. Bye !
